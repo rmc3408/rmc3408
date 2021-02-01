@@ -24,8 +24,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmc3408&show_icons=true&locale=en&layout=compact" alt="rmc3408" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rmc3408" alt="rmc3408" /></a> </p>
-
 <br>
 <br>
 <br>

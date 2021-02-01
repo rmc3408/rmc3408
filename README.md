@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, My name is Raphael Molinaro 👋
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/molinaro-raphael/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-oct2020.web.app/)
+
 
 <!--
 **rmc3408/rmc3408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

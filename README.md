@@ -1,9 +1,12 @@
-### Hello, My name is Raphael Molinaro 👋
+# Hello, 
+## My name is Raphael Molinaro 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=rmc3408.rmc3408)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/molinaro-raphael/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-oct2020.web.app/)
 
+### GitHub Status
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmc3408&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 **rmc3408/rmc3408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

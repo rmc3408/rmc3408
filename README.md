@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at **Health Espresso**
 
-- 🌱 I’m currently learning **Next.js, TypeScript and Node**
+- 🌱 I’m currently working with **Next.js, TypeScript, Redux, StoryBooks, React-Query and Node**
 
 - 👨‍💻 Sample of my portfolio available at [Portfolio](https://portfolio-oct2020.web.app/)
 

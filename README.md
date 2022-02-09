@@ -4,9 +4,9 @@
 <br>
 <br>
 
-- 🔭 I’m currently working at **Health Espresso**
+- 🔭 I’m currently working at **REDSpace**
 
-- 🌱 I’m currently working with **Next.js, TypeScript, Redux, StoryBooks, React-Query and Node**
+- 🌱 I’m currently working with **React Native**
 
 - 👨‍💻 Sample of my portfolio available at [Portfolio](https://portfolio-oct2020.web.app/)
 

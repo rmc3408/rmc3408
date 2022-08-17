@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at **REDSpace**
 
-- 🌱 I’m currently working with **React Native**
+- 🌱 I’m currently working with **Typescript / Javascript**, **React Native** and **Building SDK**
 
 - 👨‍💻 Sample of my portfolio available at [Portfolio](https://portfolio-oct2020.web.app/)
 

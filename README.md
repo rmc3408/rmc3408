@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Folks. My name is Raphael Molinaro</h1>
-<h4 align="center">An energetic frontend developer</h4>
+<h4 align="center">A proactive Full Stack Developer</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmc3408&label=Profile%20views&color=0e75b6&style=flat" alt="rmc3408" /> </p>
 <br>
 <br>

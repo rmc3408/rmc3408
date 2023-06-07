@@ -4,11 +4,11 @@
 <br>
 <br>
 
-- 🔭 I’m currently working at **REDSpace**
+- 🔭 I’m currently actively looking for Job
 
-- 🌱 I’m currently working with **Typescript / Javascript**, **React Native** and **Building SDK**
+- 🌱 I’m passionate working with **Typescript / Javascript**, **DevOps** and **microservices**
 
-- 👨‍💻 Sample of my portfolio available at [Portfolio](https://portfolio-oct2020.web.app/)
+<!-- - 👨‍💻 Sample of my portfolio available at [Portfolio](https://portfolio-oct2020.web.app/) -->
 
 - 📝 I regularly publish my projects on [LinkedIn](https://linkedin.com/in/molinaro-raphael/)
 

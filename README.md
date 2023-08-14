@@ -4,9 +4,9 @@
 <br>
 <br>
 
-- 🔭 I’m currently actively looking for Job
+- 🔭 I’m currently working at Bresotec
 
-- 🌱 I’m passionate working with **Typescript / Javascript**, **DevOps** and **microservices**
+- 🌱 I’m passionate working with **Typescript / Javascript**, **Python**, **Ruby on Rails** and **microservices**
 
 <!-- - 👨‍💻 Sample of my portfolio available at [Portfolio](https://portfolio-oct2020.web.app/) -->
 
@@ -31,5 +31,4 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/molinaro-raphael/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/molinaro-raphael/" height="60" width="80" /></a>
-<a href="https://fb.com/https://www.facebook.com/rmc3408" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/rmc3408" height="60" width="80" /></a>
 </p>

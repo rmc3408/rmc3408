@@ -4,9 +4,9 @@
 <br>
 <br>
 
-- 🔭 I’m currently working at Bresotec
+- 🔭 I’m currently working at Flow Factor
 
-- 🌱 I’m passionate working with **Typescript / Javascript**, **Python**, **Ruby on Rails** and **microservices**
+- 🌱 I’m passionate working with **Typescript / Javascript**, **.NET Web API**, **ChatGBT** and **React/Angular**
 
 <!-- - 👨‍💻 Sample of my portfolio available at [Portfolio](https://portfolio-oct2020.web.app/) -->
 

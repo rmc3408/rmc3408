@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working at Flow Factor
 
-- 🌱 I’m passionate working with **Typescript / Javascript**, **.NET Web API**, **ChatGBT** and **React/Angular**
-
-<!-- - 👨‍💻 Sample of my portfolio available at [Portfolio](https://portfolio-oct2020.web.app/) -->
+- 🌱 I’m passionate working with **Typescript / Javascript /NodeJS**, **.NET Web API**, **LLM RAG-Chat using OpenAi model** and **React/Angular**
 
 - 📝 I regularly publish my projects on [LinkedIn](https://linkedin.com/in/molinaro-raphael/)
 

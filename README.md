@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working at Flow Factor
+- 🔭 I’m currently working at Knix
 
 - 🌱 I’m passionate working with **Typescript / Javascript /NodeJS**, **.NET Web API**, **LLM RAG-Chat using OpenAi model** and **React/Angular**
 

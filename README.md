@@ -4,9 +4,9 @@
 <br>
 <br>
 
-- 🔭 I’m currently working at Knix
+- 🔭 I’m currently working at OMERS
 
-- 🌱 I’m passionate working with **Typescript / Javascript /NodeJS**, **.NET Web API**, **LLM RAG-Chat using OpenAi model** and **React/Angular**
+- 🌱 I’m passionate working with **React / Typescript /NodeJS**, **Python /FastAPI API**, **LLM RAG-Chat using OpenAi model**
 
 - 📝 I regularly publish my projects on [LinkedIn](https://linkedin.com/in/molinaro-raphael/)
 
